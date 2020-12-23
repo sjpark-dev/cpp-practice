@@ -2,7 +2,7 @@
 
 using namespace std;
 
-//풀이 2
+// solution 2
 int main() {
     int n, m, i, sum = 0;
     cin >> n >> m;
@@ -18,18 +18,19 @@ int main() {
     return 0;
 }
 
-// 풀이 1
-// int main() {
-//     int n, m, x, sum = 0;
-//     cin >> n >> m;
-//     x = m;
+/* solution 1
+int main() {
+    int n, m, x, sum = 0;
+    cin >> n >> m;
+    x = m;
 
-//     while (x <= n) {
-//         sum += x;
-//         x = x + m;
-//     }
+    while (x <= n) {
+        sum += x;
+        x = x + m;
+    }
 
-//     cout << sum;
+    cout << sum;
 
-//     return 0;
-// }
+    return 0;
+}
+*/
