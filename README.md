@@ -6,6 +6,8 @@
 1. [1부터 N까지의 M의 배수합](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem01.cpp)
 2. [자연수의 합](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem02.cpp)
 3. [진약수의 합](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem03.cpp)
+4. [나이 차이](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem04.cpp)
+5. [나이 계산(문자열 컨트롤)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem05.cpp)
 
 ### 02 정렬 & 이분탐색(결정알고리즘) & 투포인트 알고리즘 & 스택
 
