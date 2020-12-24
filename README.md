@@ -3,13 +3,16 @@
 ## Sections
 
 ### 01 코드구현력
-1. [1부터 N까지의 M의 배수합](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem01.cpp)
-2. [자연수의 합](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem02.cpp)
-3. [진약수의 합](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem03.cpp)
-4. [나이 차이](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem04.cpp)
-5. [나이 계산(문자열 컨트롤)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem05.cpp)
-6. [숫자만 추출 (문자열 컨트롤 : 아마존 인터뷰)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem06.cpp)
-7. [영어 단어 복구(문자열 컨트롤)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem07.cpp)
+01. [1부터 N까지의 M의 배수합](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem01.cpp)
+02. [자연수의 합](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem02.cpp)
+03. [진약수의 합](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem03.cpp)
+04. [나이 차이](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem04.cpp)
+05. [나이 계산(문자열 컨트롤)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem05.cpp)
+06. [숫자만 추출 (문자열 컨트롤 : 아마존 인터뷰)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem06.cpp)
+07. [영어 단어 복구(문자열 컨트롤)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem07.cpp)
+08. [올바른 괄호(문자열 컨트롤)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem08.cpp)
+09. [모두의 약수(제한시간 1초)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem09.cpp)
+10. [자릿수의 합](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem10.cpp)
 
 ### 02 정렬 & 이분탐색(결정알고리즘) & 투포인트 알고리즘 & 스택
 
