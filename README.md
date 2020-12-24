@@ -13,6 +13,8 @@
 08. [올바른 괄호(문자열 컨트롤)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem08.cpp)
 09. [모두의 약수(제한시간 1초)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem09.cpp)
 10. [자릿수의 합](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem10.cpp)
+11. [숫자의 총 개수 (small)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem11.cpp)
+12. [숫자의 총 개수 (large : 제한시간 1초)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem12.cpp)
 
 ### 02 정렬 & 이분탐색(결정알고리즘) & 투포인트 알고리즘 & 스택
 
