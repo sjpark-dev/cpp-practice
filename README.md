@@ -7,14 +7,14 @@
 ## Codeup
 - [기초 100제](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-00-100)
 - [기초1. 출력문](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-01-output)
-- [기초2. 입출력문 및 연산자]()
-- [기초3. if ~ else]()
-- [기초4-1. 단순 반복문]()
-- [기초4-2. 중첩 반복문]()
-- [기초5-1. 1차원 배열]()
-- [기초5-2. 문자열]()
-- [기초5-3. 2차원 배열]()
-- [기초5-4. 데이터 정렬]()
+- [기초2. 입출력문 및 연산자](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-02-input-output-and-operator)
+- [기초3. if ~ else](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-03-if-else)
+- [기초4-1. 단순 반복문](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-04-1-loop)
+- [기초4-2. 중첩 반복문](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-04-2-nested-loop)
+- [기초5-1. 1차원 배열](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-05-1-1-dimension-array)
+- [기초5-2. 문자열](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-05-2-string)
+- [기초5-3. 2차원 배열](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-05-3-2-dimension-array)
+- [기초5-4. 데이터 정렬](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-05-4-data-sort)
 - [기초6. 함수](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-06-function)
 
 ## Inflearn
