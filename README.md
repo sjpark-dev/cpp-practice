@@ -1,7 +1,23 @@
 # C++ practice
 
-## Sections
+## Index
+01. [Codeup](#codeup)
+02. [Inflearn](#inflearn)
 
+## Codeup
+- [기초 100제](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-00-100)
+- [기초1. 출력문](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-01-output)
+- [기초2. 입출력문 및 연산자]()
+- [기초3. if ~ else]()
+- [기초4-1. 단순 반복문]()
+- [기초4-2. 중첩 반복문]()
+- [기초5-1. 1차원 배열]()
+- [기초5-2. 문자열]()
+- [기초5-3. 2차원 배열]()
+- [기초5-4. 데이터 정렬]()
+- [기초6. 함수](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-06-function)
+
+## Inflearn
 ### 01 코드구현력
 01. [1부터 N까지의 M의 배수합](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem01.cpp)
 02. [자연수의 합](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem02.cpp)
@@ -15,11 +31,7 @@
 10. [자릿수의 합](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem10.cpp)
 11. [숫자의 총 개수 (small)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem11.cpp)
 12. [숫자의 총 개수 (large : 제한시간 1초)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem12.cpp)
-
 ### 02 정렬 & 이분탐색(결정알고리즘) & 투포인트 알고리즘 & 스택
-
 ### 03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)
-
 ### 04 그래프, DFS, BFS 관련 보충문제
-
 ### 05 Dynamic programming(동적계획법)
