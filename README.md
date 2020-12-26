@@ -32,6 +32,8 @@
 11. [숫자의 총 개수 (small)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem11.cpp)
 12. [숫자의 총 개수 (large : 제한시간 1초)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem12.cpp)
 13. [가장 많이 사용된 자릿수](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem13.cpp)
+14. [뒤집은 소수](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem14.cpp)
+15. [소수의 개수(제한시간 1초)](https://github.com/sjpark-dev/cpp-practice/blob/master/section01/problem15.cpp)
 ### 02 정렬 & 이분탐색(결정알고리즘) & 투포인트 알고리즘 & 스택
 ### 03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)
 ### 04 그래프, DFS, BFS 관련 보충문제
