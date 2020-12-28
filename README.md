@@ -40,6 +40,10 @@
 19. [가위 바위 보(기본코딩설계)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem19.cpp)
 20. [가위 바위 보(기본코딩설계)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem20.cpp)
 21. [카드게임(기본코딩설계)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem21.cpp)
+22. [온도의 최댓값 (1차원 배열 구간합 : 제한시간 1초)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem22.cpp)
+23. [연속 부분 증가수열](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem23.cpp)
+24. [Jolly Jumpers](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem24.cpp)
+25. [석차 구하기(브루트포스)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem25.cpp)
 ### 02 정렬 & 이분탐색(결정알고리즘) & 투포인트 알고리즘 & 스택
 ### 03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)
 ### 04 그래프, DFS, BFS 관련 보충문제
