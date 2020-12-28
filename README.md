@@ -35,6 +35,11 @@
 14. [뒤집은 소수](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem14.cpp)
 15. [소수의 개수(제한시간 1초)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem15.cpp)
 16. [Anagram (구글 인터뷰 문제)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem16.cpp)
+17. [선생님 퀴즈](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem17.cpp)
+18. [층간 소음](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem18.cpp)
+19. [가위 바위 보(기본코딩설계)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem19.cpp)
+20. [가위 바위 보(기본코딩설계)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem20.cpp)
+21. [카드게임(기본코딩설계)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem21.cpp)
 ### 02 정렬 & 이분탐색(결정알고리즘) & 투포인트 알고리즘 & 스택
 ### 03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)
 ### 04 그래프, DFS, BFS 관련 보충문제
