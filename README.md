@@ -1,8 +1,13 @@
 # C++ practice
 
 ## Index
-01. [Codeup](#codeup)
-02. [Inflearn](#inflearn)
+01. Codeup
+02. Inflearn
+    - [01 코드구현력](#01-코드구현력)
+    - [02 정렬 & 이분탐색(결정알고리즘) & 투포인트 알고리즘 & 스택](#02-정렬-&-이분탐색(결정알고리즘)-&-투포인트-알고리즘-&-스택)
+    - [03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)](#03-재귀-&-깊이/넓이-우선탐색(DFS,-BFS))
+    - [04 그래프, DFS, BFS 관련 보충문제](#04-그래프,-DFS,-BFS-관련-보충문제)
+    - [05 Dynamic programming(동적계획법)](#05-Dynamic-programming(동적계획법))
 
 ## Codeup
 - [기초 100제](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-00-100)
