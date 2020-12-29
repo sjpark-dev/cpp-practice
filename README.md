@@ -52,6 +52,9 @@
 26. [마라톤](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem26.cpp)
 27. [N!의 표현법(소인수 분해 응용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem27.cpp)
 28. [N!에서 0의 개수(소인수분해 응용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem28.cpp)
+29. [3의 개수는? (small : 구글 인터뷰)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem29.cpp)
+30. [3의 개수는? (large : 제한시간 1초)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem30.cpp)
+31. [탄화수소 질량](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem31.cpp)
 ### 02 정렬 & 이분탐색(결정알고리즘) & 투포인트 알고리즘 & 스택
 ### 03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)
 ### 04 그래프, DFS, BFS 관련 보충문제
