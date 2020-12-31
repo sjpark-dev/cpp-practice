@@ -56,6 +56,8 @@
 30. [3의 개수는? (large : 제한시간 1초)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem30.cpp)
 31. [탄화수소 질량](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem31.cpp)
 ### 02 정렬 & 이분탐색(결정알고리즘) & 투포인트 알고리즘 & 스택
+32. [선택정렬](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem32.cpp)
+33. [3등의 성적은? (정렬 응용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem33.cpp)
 ### 03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)
 ### 04 그래프, DFS, BFS 관련 보충문제
 ### 05 Dynamic programming(동적계획법)
