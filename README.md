@@ -61,6 +61,7 @@
 34. [버블 정렬](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem34.cpp)
 35. [Special Sort (버블정렬 응용: 구글 인터뷰)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem35.cpp)
 36. [삽입정렬](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem36.cpp)
+37. [Least Recently Used (삽입정렬 코드 스타일 : 카카오](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem37.cpp)
 ### 03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)
 ### 04 그래프, DFS, BFS 관련 보충문제
 ### 05 Dynamic programming(동적계획법)
