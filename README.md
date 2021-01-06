@@ -64,6 +64,7 @@
 37. [Least Recently Used (삽입정렬 코드 스타일 : 카카오](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem37.cpp)
 38. [Inversion Sequence (삽입정렬 코드스타일)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem38.cpp)
 39. [두 배열 합치기(병합정렬 예비학습)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem39.cpp)
+40. [교집합 (투포인터 알고리즘 : MS인터뷰 제한시간 1초)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem40.cpp)
 ### 03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)
 ### 04 그래프, DFS, BFS 관련 보충문제
 ### 05 Dynamic programming(동적계획법)
