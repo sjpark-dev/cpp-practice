@@ -66,6 +66,8 @@
 39. [두 배열 합치기(병합정렬 예비학습)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem39.cpp)
 40. [교집합 (투포인터 알고리즘 : MS인터뷰 제한시간 1초)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem40.cpp)
 41. [연속된 자연수의 합(단순 수리)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem41.cpp)
+42. [이분검색](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem42.cpp)
+43. [뮤직비디오 (이분검색 응용 : 결정 알고리즘)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem43.cpp)
 ### 03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)
 ### 04 그래프, DFS, BFS 관련 보충문제
 ### 05 Dynamic programming(동적계획법)
