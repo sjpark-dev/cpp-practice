@@ -72,6 +72,7 @@
 45. [공주 구하기 (조세퍼스)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem45.cpp)
 46. [멀티 태스킹 (카카오 "먹방" 문제 변형)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem46.cpp)
 47. [봉우리 (2차원 배열 탐색)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem47.cpp)
+48. [각 행의 평균과 가장 가까운 값(2차원 배열 탐색)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem48.cpp)
 ### 03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)
 ### 04 그래프, DFS, BFS 관련 보충문제
 ### 05 Dynamic programming(동적계획법)
