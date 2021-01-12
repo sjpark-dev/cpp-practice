@@ -75,6 +75,7 @@
 48. [각 행의 평균과 가장 가까운 값(2차원 배열 탐색)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem48.cpp)
 49. [쌓기 블록의 최댓값 (2차원 배열 응용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem49.cpp)
 50. [영지 (territory) 선택 (small : 2차원 배열 브루트포스)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem50.cpp)
+51. [영지 (territory) 선택 (large : 2차원 배열 구간합 : 제한시간 1초 : DP)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem51.cpp)
 ### 03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)
 ### 04 그래프, DFS, BFS 관련 보충문제
 ### 05 Dynamic programming(동적계획법)
