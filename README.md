@@ -76,6 +76,10 @@
 49. [쌓기 블록의 최댓값 (2차원 배열 응용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem49.cpp)
 50. [영지 (territory) 선택 (small : 2차원 배열 브루트포스)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem50.cpp)
 51. [영지 (territory) 선택 (large : 2차원 배열 구간합 : 제한시간 1초 : DP)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem51.cpp)
+52. [Ugly Numbers (투포인트 알고리즘 응용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem52.cpp)
+53. [K진수 출력 (스택 자료구조 직접 구현)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem53.cpp)
+54. [올바른 괄호 (STL stack 자료구조 활용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem54.cpp)
+55. [기차운행 (스택 자료구조 응용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem55.cpp)
 ### 03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)
 ### 04 그래프, DFS, BFS 관련 보충문제
 ### 05 Dynamic programming(동적계획법)
