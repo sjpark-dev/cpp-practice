@@ -83,5 +83,7 @@
 ### 03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)
 56. [재귀함수 분석 (스택을 이용하는 재귀)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem56.cpp)
 57. [재귀함수(스택)를 이용한 2진수 출력](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem57.cpp)
+58. [이진트리 깊이우선탐색 (DFS: Depth First Search)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem58.cpp)
+59. [부분집합 (MS 인터뷰 문제 : DFS 완전탐색)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem59.cpp)
 ### 04 그래프, DFS, BFS 관련 보충문제
 ### 05 Dynamic programming(동적계획법)
