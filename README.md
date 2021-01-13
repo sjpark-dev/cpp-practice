@@ -81,6 +81,7 @@
 54. [올바른 괄호 (STL stack 자료구조 활용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem54.cpp)
 55. [기차운행 (스택 자료구조 응용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem55.cpp)
 ### 03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)
-55. [재귀함수 분석 (스택을 이용하는 재귀)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem56.cpp)
+56. [재귀함수 분석 (스택을 이용하는 재귀)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem56.cpp)
+57. [재귀함수(스택)를 이용한 2진수 출력](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem57.cpp)
 ### 04 그래프, DFS, BFS 관련 보충문제
 ### 05 Dynamic programming(동적계획법)
