@@ -89,5 +89,6 @@
 61. [특정 수 만들기 (MS 인터뷰 문제 : DFS 완전탐색)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem61.cpp)
 62. [병합정렬 (분할 정복)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem62.cpp)
 63. [인접행렬](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem63.cpp)
+64. [경로탐색 (그래프 DFS : Depth First Search)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem64.cpp)
 ### 04 그래프, DFS, BFS 관련 보충문제
 ### 05 Dynamic programming(동적계획법)
