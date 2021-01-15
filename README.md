@@ -94,5 +94,7 @@
 66. [경로탐색 (방향그래프 인접 리스트: used Vector)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem66.cpp)
 67. [최소 비용 (그래프 DFS)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem67.cpp)
 68. [최소 비용 (가중치 방향그래프 인접 리스트:vector, STL pair 자료구조)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem68.cpp)
+69. [이진트리 넓이 우선 탐색 (큐 자료구조 직접구현 : BFS )](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem69.cpp)
+70. [그래프 최단거리 (BFS : Breadth First Search )](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem70.cpp)
 ### 04 그래프, DFS, BFS 관련 보충문제
 ### 05 Dynamic programming(동적계획법)
