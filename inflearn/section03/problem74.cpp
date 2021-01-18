@@ -2,8 +2,6 @@
 #include <queue>
 using namespace std;
 
-int pq[100000];
-
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
