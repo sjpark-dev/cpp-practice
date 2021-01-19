@@ -23,6 +23,7 @@
 - [기초6. 함수](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-06-function)
 
 ## Inflearn
+
 ### 01 코드구현력
 01. [1부터 N까지의 M의 배수합](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem01.cpp)
 02. [자연수의 합](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem02.cpp)
@@ -55,6 +56,7 @@
 29. [3의 개수는? (small : 구글 인터뷰)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem29.cpp)
 30. [3의 개수는? (large : 제한시간 1초)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem30.cpp)
 31. [탄화수소 질량](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section01/problem31.cpp)
+
 ### 02 정렬 & 이분탐색(결정알고리즘) & 투포인트 알고리즘 & 스택
 32. [선택정렬](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem32.cpp)
 33. [3등의 성적은? (정렬 응용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem33.cpp)
@@ -80,6 +82,7 @@
 53. [K진수 출력 (스택 자료구조 직접 구현)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem53.cpp)
 54. [올바른 괄호 (STL stack 자료구조 활용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem54.cpp)
 55. [기차운행 (스택 자료구조 응용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section02/problem55.cpp)
+
 ### 03 재귀 & 깊이/넓이 우선탐색(DFS, BFS)
 56. [재귀함수 분석 (스택을 이용하는 재귀)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem56.cpp)
 57. [재귀함수(스택)를 이용한 2진수 출력](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem57.cpp)
@@ -101,6 +104,8 @@
 73. [최대힙(STL priority_queue : 우선순위큐)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem73.cpp)
 74. [최소힙(STL priority_queue : 우선순위큐)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem74.cpp)
 75. [최대 수입 스케쥴(priority queue greedy: 구조체와 Vector를 이용한 정렬)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem75.cpp)
+
 ### 04 그래프, DFS, BFS 관련 보충문제
 76. [이항계수(메모이제이션)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem76.cpp)
+
 ### 05 Dynamic programming(동적계획법)
