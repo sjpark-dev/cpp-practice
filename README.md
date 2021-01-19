@@ -100,5 +100,6 @@
 72. [공주 구하기 (조세퍼스 : 큐를 이용하는 방법)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem72.cpp)
 73. [최대힙(STL priority_queue : 우선순위큐)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem73.cpp)
 74. [최소힙(STL priority_queue : 우선순위큐)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem74.cpp)
+75. [최대 수입 스케쥴(priority queue greedy: 구조체와 Vector를 이용한 정렬)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem75.cpp)
 ### 04 그래프, DFS, BFS 관련 보충문제
 ### 05 Dynamic programming(동적계획법)
