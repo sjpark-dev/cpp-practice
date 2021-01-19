@@ -102,4 +102,5 @@
 74. [최소힙(STL priority_queue : 우선순위큐)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem74.cpp)
 75. [최대 수입 스케쥴(priority queue greedy: 구조체와 Vector를 이용한 정렬)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section03/problem75.cpp)
 ### 04 그래프, DFS, BFS 관련 보충문제
+76. [이항계수(메모이제이션)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem76.cpp)
 ### 05 Dynamic programming(동적계획법)
