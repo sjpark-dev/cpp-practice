@@ -16,9 +16,9 @@
 - [기초3. if ~ else](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-03-if-else)
 - [기초4-1. 단순 반복문](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-04-1-loop)
 - [기초4-2. 중첩 반복문](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-04-2-nested-loop)
-- [기초5-1. 1차원 배열](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-05-1-1-dimension-array)
+- [기초5-1. 1차원 배열](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-05-1-one-dimensional-array)
 - [기초5-2. 문자열](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-05-2-string)
-- [기초5-3. 2차원 배열](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-05-3-2-dimension-array)
+- [기초5-3. 2차원 배열](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-05-3-two-dimensional-array)
 - [기초5-4. 데이터 정렬](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-05-4-data-sort)
 - [기초6. 함수](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-06-function)
 
