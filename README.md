@@ -108,5 +108,6 @@
 ### 04 그래프, DFS, BFS 관련 보충문제
 76. [이항계수(메모이제이션)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem76.cpp)
 77. [친구인가?(Disjoint-set : Union&Find 알고리즘)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem77.cpp)
+78. [원더랜드 : Kruskal MST(최소스패닝트리) 알고리즘 : Union&Find 활용](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem78.cpp)
 
 ### 05 Dynamic programming(동적계획법)
