@@ -109,5 +109,6 @@
 76. [이항계수(메모이제이션)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem76.cpp)
 77. [친구인가?(Disjoint-set : Union&Find 알고리즘)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem77.cpp)
 78. [원더랜드 : Kruskal MST(최소스패닝트리) 알고리즘 : Union&Find 활용](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem78.cpp)
+79. [원더랜드 : Prim MST(최소스패닝트리) 알고리즘 : priority_queue 활용](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem79.cpp)
 
 ### 05 Dynamic programming(동적계획법)
