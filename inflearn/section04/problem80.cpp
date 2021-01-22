@@ -3,6 +3,7 @@
 #include <queue>
 using namespace std;
 
+// solution 2
 struct Edge {
     int vex;
     int dis;
