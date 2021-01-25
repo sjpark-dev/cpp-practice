@@ -21,6 +21,7 @@
 - [기초5-3. 2차원 배열](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-05-3-two-dimensional-array)
 - [기초5-4. 데이터 정렬](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-05-4-data-sort)
 - [기초6. 함수](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/basic-06-function)
+- [구조체 연습](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/structure-practice)
 
 ## Inflearn
 
