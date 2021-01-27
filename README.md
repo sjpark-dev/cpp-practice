@@ -115,5 +115,7 @@
 81. [벨만-포드 알고리즘](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem81.cpp)
 82. [순열구하기(DFS : Depth First Search)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem82.cpp)
 83. [복면산 SEND+MORE=MONEY (MS인터뷰)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem83.cpp)
+84. [휴가(삼성 SW역량평가 기출문제 : DFS활용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem84.cpp)
+85. [수식만들기(삼성 SW역량평가 기출문제 : DFS활용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem85.cpp)
 
 ### 05 Dynamic programming(동적계획법)
