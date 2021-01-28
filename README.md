@@ -118,5 +118,6 @@
 84. [휴가(삼성 SW역량평가 기출문제 : DFS활용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem84.cpp)
 85. [수식만들기(삼성 SW역량평가 기출문제 : DFS활용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem85.cpp)
 86. [피자 배달 거리(삼성 SW역량평가 기출문제 : DFS활용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem86.cpp)
+87. [섬나라 아일랜드(BFS 활용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem87.cpp)
 
 ### 05 Dynamic programming(동적계획법)
