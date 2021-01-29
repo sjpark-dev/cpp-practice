@@ -121,7 +121,5 @@
 86. [피자 배달 거리(삼성 SW역량평가 기출문제 : DFS활용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem86.cpp)
 87. [섬나라 아일랜드(BFS 활용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem87.cpp)
 88. [미로의 최단거리 통로(BFS 활용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem88.cpp)
-89. [](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem89.cpp)
-90. [](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem90.cpp)
 
 ### 05 Dynamic programming(동적계획법)
