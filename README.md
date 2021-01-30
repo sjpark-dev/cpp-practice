@@ -23,6 +23,8 @@
 - [기초6. 함수](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/06-basic-function)
 - [구조체 연습](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/07-structure-practice)
 - [재귀함수](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/08-recursive-function)
+- [탐색기반설계](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/09-search-based)
+- [관계기반설계](https://github.com/sjpark-dev/cpp-practice/tree/master/codeup/10-relation-based)
 
 ## Inflearn
 
