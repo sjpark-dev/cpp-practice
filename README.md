@@ -127,3 +127,4 @@
 90. [라이언 킹 심바(삼성 SW역량평가 기출 : BFS활용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section04/problem90.cpp)
 
 ### 05 Dynamic programming(동적계획법)
+01. [동적계획법이란? 네트워크 선 자르기(Bottom-Up)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem01.cpp)
