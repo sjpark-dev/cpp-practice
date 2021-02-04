@@ -1,19 +1,18 @@
 #include <iostream>
 using namespace std;
 
-int dy[46];
-
-int dfs(int n) {
-    if (dy[n]) return dy[n];
-    if (n==1 || n==2) return n;
-    return dy[n] = dfs(n-2) + dfs(n-1);
-}
+int dy[47];
 
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     int n;
     cin >> n;
-    cout << dfs(n);
+    dy[1] = 1;
+    dy[2] = 2;
+    for (int i=3; i<=n+1; i++) {
+        dy[i] = dy[i-2] + dy[i-1];
+    }
+    cout << dy[n+1];
     return 0;
 }
