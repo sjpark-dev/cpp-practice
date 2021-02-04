@@ -129,5 +129,5 @@
 ### 05 Dynamic programming(동적계획법)
 01. [동적계획법이란? 네트워크 선 자르기(Bottom-Up)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem01.cpp)
 02. [네트워크 선 자르기(Top-Down : 재귀, 메모이제이션)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem02.cpp)
-03-a. [도전과제 : 계단오르기(Top-Down : 메모이제이션)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem03a.cpp)
-03-b. [도전과제 : 돌다리 건너기(Bottom-Up)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem03b.cpp)
+03. a [도전과제 : 계단오르기(Top-Down : 메모이제이션)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem03a.cpp)
+03. b [도전과제 : 돌다리 건너기(Bottom-Up)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem03b.cpp)
