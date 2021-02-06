@@ -131,3 +131,4 @@
 02. [네트워크 선 자르기(Top-Down : 재귀, 메모이제이션)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem02.cpp)
 03. [도전과제 : 계단오르기(Top-Down : 메모이제이션)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem03a.cpp) / [도전과제 : 돌다리 건너기(Bottom-Up)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem03b.cpp)
 04. [최대 부분 증가수열(LIS : Longest Increasing Subsequence)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem04.cpp)
+05. [최대 선 연결하기(LIS응용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem05.cpp)
