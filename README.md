@@ -133,3 +133,4 @@
 04. [최대 부분 증가수열(LIS : Longest Increasing Subsequence)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem04.cpp)
 05. [최대 선 연결하기(LIS응용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem05.cpp)
 06. [가장 높은 탑 쌓기(LIS응용)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem06.cpp)
+07. [알리바바와 40인의 도둑(Bottom-Up)](https://github.com/sjpark-dev/cpp-practice/blob/master/inflearn/section05/problem07.cpp)
