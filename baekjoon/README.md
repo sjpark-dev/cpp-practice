@@ -16,3 +16,6 @@
 - [사칙연산](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step1/9.cpp)
 - [나머지](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step1/10.cpp)
 - [곱셈](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step1/11.cpp)
+
+### 02 if문
+- [두 수 비교하기](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step2/1.cpp)
