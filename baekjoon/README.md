@@ -19,3 +19,7 @@
 
 ### 02 if문
 - [두 수 비교하기](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step2/1.cpp)
+- [시험 성적](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step2/2.cpp)
+- [윤년](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step2/3.cpp)
+- [사분면 고르기](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step2/4.cpp)
+- [알람 시계](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step2/5.cpp)
