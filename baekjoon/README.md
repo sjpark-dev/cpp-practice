@@ -23,3 +23,6 @@
 - [윤년](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step2/3.cpp)
 - [사분면 고르기](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step2/4.cpp)
 - [알람 시계](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step2/5.cpp)
+
+### 03 for문
+- [구구단](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step3/1.cpp)
