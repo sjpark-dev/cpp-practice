@@ -26,3 +26,13 @@
 
 ### 03 for문
 - [구구단](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step3/1.cpp)
+- [A+B - 3](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step3/2.cpp)
+- [합](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step3/3.cpp)
+- [빠른 A+B](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step3/4.cpp)
+- [N 찍기](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step3/5.cpp)
+- [기찍 N](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step3/6.cpp)
+- [A+B - 7](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step3/7.cpp)
+- [A+B - 8](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step3/8.cpp)
+- [별 찍기 - 1](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step3/9.cpp)
+- [별 찍기 - 2](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step3/10.cpp)
+- [X보다 작은 수](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step3/11.cpp)
