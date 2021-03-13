@@ -36,3 +36,17 @@
 - [별 찍기 - 1](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step3/9.cpp)
 - [별 찍기 - 2](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step3/10.cpp)
 - [X보다 작은 수](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step3/11.cpp)
+
+### 04 while문
+- [A+B - 5](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step4/1.cpp)
+- [A+B - 4](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step4/2.cpp)
+- [더하기 사이클](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step4/3.cpp)
+
+### 05 1차원 배열
+- [최소, 최대](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step5/1.cpp)
+- [최댓값](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step5/2.cpp)
+- [숫자의 개수](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step5/3.cpp)
+- [나머지](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step5/4.cpp)
+- [평균](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step5/5.cpp)
+- [OX퀴즈](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step5/6.cpp)
+- [평균은 넘겠지](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step5/7.cpp)
