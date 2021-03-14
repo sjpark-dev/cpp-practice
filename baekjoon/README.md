@@ -50,3 +50,8 @@
 - [평균](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step5/5.cpp)
 - [OX퀴즈](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step5/6.cpp)
 - [평균은 넘겠지](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step5/7.cpp)
+
+### 06 함수
+- [정수 N개의 합](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step5/1.cpp)
+- [셀프 넘버](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step5/2.cpp)
+- [한수](https://github.com/sjpark-dev/cpp-practice/blob/master/baekjoon/step5/3.cpp)
